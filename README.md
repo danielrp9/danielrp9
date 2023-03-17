@@ -2,9 +2,6 @@
 
 - 🔭 Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 - 🌱 Estou aprendendo Javascript
-- 📫 Contate-me pelo e-mail danielrodrigues878@hotmail.com
-
-
 
 <div> 
   <a href="https://www.youtube.com/channel/UCpI3tkUMCUiVe3jmZzcG_JQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -21,10 +18,7 @@
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Daniel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg">
-          
-         
-  
+ 
+     
   <img align="right" alt="Daniel-perfil" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQGC7x5hcvAMkg/profile-displayphoto-shrink_800_800/0/1655906210977?e=1684368000&v=beta&t=-Y0SgiU9TE5lStJmkIN-1wVv5GhKaOZm8J9iGuLVMK8">
 </div>
