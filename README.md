@@ -5,7 +5,7 @@
 - 📫 Contate-me pelo e-mail danielrodrigues878@hotmail.com
 
 <div> 
-  [(https://github-readme-stats.vercel.app/api?username=danielrp9)](https://github.com/danelrp9/github-readme-stats)
+  
   </div>
 
 
