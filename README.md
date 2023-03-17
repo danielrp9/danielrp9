@@ -21,5 +21,7 @@
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daniel-C++" height="30" width="40" src="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-.svg" />
+          ">
   <img align="right" alt="Daniel-perfil" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQGC7x5hcvAMkg/profile-displayphoto-shrink_800_800/0/1655906210977?e=1684368000&v=beta&t=-Y0SgiU9TE5lStJmkIN-1wVv5GhKaOZm8J9iGuLVMK8">
 </div>
