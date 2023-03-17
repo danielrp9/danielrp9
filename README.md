@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou o Daniel! 😄
 
 - 🔭 I’m currently estudando na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 - 🌱 I’m currently learning Javascript
