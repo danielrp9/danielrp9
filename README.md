@@ -1,8 +1,8 @@
 ### Olá, sou o Daniel! 😄 
 
 - 🔭 Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
-- 📍 Sou natural de Itamarandiba - MG
-- 🌱 Estou aprendendo Javascript
+- 📍 Natural de Itamarandiba - MG
+- 🌱 Aprendendo Javascript
 -  ♐ Sagitariano 
 
 <div> 
