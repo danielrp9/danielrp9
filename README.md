@@ -4,7 +4,9 @@
 - 🌱 Estou aprendendo Javascript
 - 📫 Contate-me pelo e-mail danielrodrigues878@hotmail.com
 
-https://github-readme-stats.vercel.app/api?username=danierp9&theme=dark&show_icons=true)
+<div> 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrp9)](https://github.com/danelrp9/github-readme-stats)
+  </div>
 
 
 <div> 
