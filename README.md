@@ -2,7 +2,7 @@
 
 - 🔭  Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 - 📍  Natural de Itamarandiba - MG
-- 🌱  Aprendendo Javascript
+- 🌱  Em processo de constante aprendizado
 -  ♐  Sagitariano 
 
 <div> 
