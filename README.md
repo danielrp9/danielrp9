@@ -2,7 +2,7 @@
 
 - 🔭  Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 - 📍  Natural de Itamarandiba - MG
-- 🌱  Em processo de constante aprendizado
+- 🌱  Em  constante processo de aprendizado
 -  ♐  Sagitariano 
 
 <div> 
