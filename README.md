@@ -2,7 +2,7 @@
 
 - 🔭  Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
 - 📍  Natural de Itamarandiba - MG
-- 🌱  Aprendizado focado em desenvolvimento full-stack utilizando ferramentas como JS, Html, Css, React Native, Django e Python;
+- 🌱  Desenvolvedor Full-Stack, UX/UI 
 
 <div> 
   <a href="https://www.youtube.com/channel/UCpI3tkUMCUiVe3jmZzcG_JQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
