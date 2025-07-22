@@ -1,5 +1,3 @@
-consegue me fazer um readme futidtico e moderno para meu github?
-
 ### Olá, sou o Daniel! 😄 
 
 - 🔭  Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
