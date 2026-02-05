@@ -1,42 +1,55 @@
 <div align="center">
-  <h1>🌌 Daniel Rodrigues</h1>
-  <p><i>Full-Stack Developer | UX/UI Specialist | Systems Student</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d4ff&height=150&section=header&text=Daniel%20Rodrigues&fontSize=70&fontAlignY=40&animation=twinkling" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UX%2FUI+Specialist;Systems+Information+Student;Building+the+future..." alt="Typing SVG" />
 
   <p>
-    <a href="https://www.linkedin.com/in/daniel-rodrigues-pereira-29b1b7243/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:danielrodrigues878@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=for-the-badge&logo=statuspage&logoColor=white" />
+    <img src="https://img.shields.io/badge/LOCATION-DIAMANTINA_MG-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/BRAIN-DEVELOPING-ff00ff?style=for-the-badge&logo=micro-soft-academic&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### ⚡ System Overview
-* 🎓 **Sistemas de Informação** na UFVJM (2022-2027)
-* 💼 **Estagiário (Eng. de Requisitos/UX)** na PROAAE - UFVJM
-* 🛠️ **Ex-Full Stack** na Next Step (Empresa Júnior)
-* 🏛️ **Ex-Presidente** da ByteBuilders (Liderança Acadêmica)
+### 🛰️ Core Intelligence
+- [cite_start]🎓 **Major:** Sistemas de Informação @ UFVJM (2022-2027) [cite: 30, 31]
+- [cite_start]💼 **Current Mission:** Engenharia de Requisitos & UX @ PROAAE [cite: 13, 16]
+- [cite_start]⚡ **Past Exp:** Full-Stack Dev @ Next Step EJ [cite: 19]
+- [cite_start]👑 **Leadership:** Ex-Presidente @ ByteBuilders [cite: 25]
 
 ---
 
-### 🚀 Tech Stack
+### 🧬 Tech DNA
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,python,django,postgres,docker,githubactions,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,postgres,docker,githubactions,figma&theme=dark" />
 </p>
 
 ---
 
-### 📊 Terminal Stats
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielrp9&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrp9&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=true" />
+### 📊 System Analytics
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielrp9&show_icons=true&theme=visionary&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrp9&layout=compact&theme=visionary&hide_border=true&langs_count=6" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrp9&theme=visionary&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer" />
+  <p>
+    <a href="https://www.linkedin.com/in/daniel-rodrigues-pereira-29b1b7243/">
+      <img src="https://img.shields.io/badge/-LinkedIn-00d4ff?style=flat-square&logo=linkedin&logoColor=black" />
+    </a>
+    <a href="mailto:danielrodrigues878@hotmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-ff4b4b?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/daniel_rodrigues9">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=60&section=footer" width="100%" />
 </div>
