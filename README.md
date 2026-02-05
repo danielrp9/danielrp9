@@ -1,25 +1,25 @@
-### Olá, sou o Daniel! 😄 
+<!-- HEADER FUTURISTA -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Daniel+Rodrigues+Pereira;Full-Stack+Developer;React+%7C+Next.js+%7C+Python+%7C+Django;UX%2FUI+Designer;Building+the+Future+with+Code" />
+</h1>
 
-- 🔭  Atualmente estudo na Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)
-- 📍  Natural de Itamarandiba - MG
-- 🌱  Desenvolvedor Full-Stack, UX/UI 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ffcc?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Development-00ffcc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Brazil-00ffcc?style=for-the-badge&logo=googlemaps&logoColor=black"/>
+</p>
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCpI3tkUMCUiVe3jmZzcG_JQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/daniel_rodrigues9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:danielrodrigues878@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-rodrigues-pereira-29b1b7243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Daniel-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" style="background-color: white; border-radius: 5px; padding: 2px;">
-  <img align="center" alt="Daniel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Daniel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
+## 👨‍💻 Sobre mim
 
+```js
+const daniel = {
+  location: "Diamantina, MG - Brazil",
+  education: "Sistemas de Informação @ UFVJM",
+  role: "Full-Stack Developer",
+  focus: ["Web Applications", "UX/UI", "Modern Frontend"],
+  currentWork: "Estágio na PROAAE - UFVJM",
+  interests: ["React", "Next.js", "Python", "System Design"],
+  mission: "Criar soluções que impactam pessoas através da tecnologia"
+};
