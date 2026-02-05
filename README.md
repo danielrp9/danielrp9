@@ -1,55 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00d4ff&height=150&section=header&text=Daniel%20Rodrigues&fontSize=70&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=DANIEL%20RODRIGUES&fontSize=75&fontAlignY=40&fontColor=00d4ff&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UX%2FUI+Specialist;Systems+Information+Student;Building+the+future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=FULL-STACK+DEVELOPER;UX+%2F+UI+DESIGNER;SYSTEMS+ENGINEERING+STUDENT" alt="Typing SVG" />
 
   <p>
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=for-the-badge&logo=statuspage&logoColor=white" />
-    <img src="https://img.shields.io/badge/LOCATION-DIAMANTINA_MG-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/BRAIN-DEVELOPING-ff00ff?style=for-the-badge&logo=micro-soft-academic&logoColor=white" />
+    <img src="https://img.shields.io/badge/OS-UBUNTU_LINUX-00d4ff?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/SHELL-ZSH-ff00ff?style=for-the-badge&logo=gnumetadata&logoColor=white" />
+    <img src="https://img.shields.io/badge/ENV-PRODUCTION-00ff00?style=for-the-badge&logo=lighthouse&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🛰️ Core Intelligence
-- [cite_start]🎓 **Major:** Sistemas de Informação @ UFVJM (2022-2027) [cite: 30, 31]
-- [cite_start]💼 **Current Mission:** Engenharia de Requisitos & UX @ PROAAE [cite: 13, 16]
-- [cite_start]⚡ **Past Exp:** Full-Stack Dev @ Next Step EJ [cite: 19]
-- [cite_start]👑 **Leadership:** Ex-Presidente @ ByteBuilders [cite: 25]
+### 📡 SYSTEM LOGS
+- 🎓 **Education:** Bacharelado em Sistemas de Informação
+- 🏛️ **Organization:** UFVJM - Campus JK
+- 💼 **Current Task:** Estágio na PROAAE (Engenharia de Requisitos & UX/UI)
+- ⚡ **Past Mission:** Desenvolvedor Full-Stack na Next Step EJ
 
 ---
 
-### 🧬 Tech DNA
-<p align="left">
+### 🧬 TECH STACK DNA
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,django,postgres,docker,githubactions,figma&theme=dark" />
-</p>
-
----
-
-### 📊 System Analytics
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielrp9&show_icons=true&theme=visionary&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrp9&layout=compact&theme=visionary&hide_border=true&langs_count=6" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielrp9&theme=visionary&hide_border=true" width="100%" />
-</p>
+---
+
+### 📊 ANALYTICS TERMINAL
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielrp9&theme=tokyonight&area=true&hide_border=true&bg_color=000000&color=00d4ff" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=danielrp9&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrp9&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=true" />
+</div>
 
 ---
 
+### 🌐 NEURAL NETWORK (CONTACT)
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/daniel-rodrigues-pereira-29b1b7243/">
-      <img src="https://img.shields.io/badge/-LinkedIn-00d4ff?style=flat-square&logo=linkedin&logoColor=black" />
-    </a>
-    <a href="mailto:danielrodrigues878@hotmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-ff4b4b?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/daniel_rodrigues9">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=60&section=footer" width="100%" />
+  <a href="https://www.linkedin.com/in/daniel-rodrigues-pereira-29b1b7243/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:danielrodrigues878@hotmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/daniel_rodrigues9">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer" width="100%" />
 </div>
