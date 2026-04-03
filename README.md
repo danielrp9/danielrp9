@@ -1,6 +1,10 @@
 <h1 align="center">Daniel Rodrigues</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Construindo+produtos+reais;Foco+em+performance+e+UX" />
+</p>
+
+<p align="center">
   Desenvolvedor Full-Stack focado em construir produtos reais, com performance, boa UX e impacto prático.
 </p>
 
@@ -24,7 +28,7 @@
 
 ### 🛠️ Stack Principal
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,fastapi,java,docker,figma" />
 </p>
 
