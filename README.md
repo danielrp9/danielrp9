@@ -36,10 +36,6 @@
 
 ### 📊 Atividade
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielrp9&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrp9&layout=compact&theme=transparent&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danielrp9&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
