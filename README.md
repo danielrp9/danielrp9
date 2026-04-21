@@ -29,7 +29,7 @@
 ### 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,fastapi,java,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,fastapi,figma" />
 </p>
 
 ---
