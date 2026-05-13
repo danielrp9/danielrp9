@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://portfolio-daniel-silk.vercel.app/">
-    <img src="https://img.shields.io/badge/Ver%20Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Ver%20Meu%20Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API%20REST-111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-0F172A?style=for-the-badge&logo=fastapi&logoColor=00FF9D"/>
 </p>
 
 ---
