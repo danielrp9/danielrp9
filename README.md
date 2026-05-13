@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://portfolio-daniel-silk.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20Ver%20Meu%20Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Ver%20Meu%20Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
