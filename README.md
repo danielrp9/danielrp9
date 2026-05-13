@@ -29,7 +29,11 @@
 ### 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,java,python,django,fastapi,spring,figma,postgres,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=js,react,java,python,django,figma,git" />
+</p>
+
+<p align="center">
+  API REST
 </p>
 
 ---
