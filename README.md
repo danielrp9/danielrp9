@@ -22,18 +22,18 @@
 - 📍 Minas Gerais, Brasil  
 - 🚀 Foco em desenvolvimento Full-Stack + UX  
 - 🧠 Interesse em arquitetura, performance e produtos digitais  
-- ⚡ Construindo projetos com aplicação real (não só teoria)
+- ⚡ Construindo projetos com aplicação real
 
 ---
 
 ### 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,java,python,django,figma,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,java,django,python,figma,git" />
 </p>
 
 <p align="center">
-  API REST
+  <img src="https://img.shields.io/badge/API%20REST-111?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
