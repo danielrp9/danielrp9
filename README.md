@@ -29,13 +29,12 @@
 ### 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,fastapi,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,java,python,django,fastapi,spring,figma,postgres,mysql,git,docker" />
 </p>
 
 ---
 
 ### 📊 Atividade
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danielrp9&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
