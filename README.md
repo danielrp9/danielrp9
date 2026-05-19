@@ -1,4 +1,4 @@
-<h1 align="center">Daniel Rodrigues</h1>
+<h1 align="center">Olá, sou o Daniel Rodrigues :)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Construindo+produtos+reais;Foco+em+performance+e+UX" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 Sobre
+### Sobre
 
 - 🎓 Estudante de Sistemas de Informação — UFVJM - MG  
 - 🚀 Apaixonado por desenvolvimento 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Stack Principal
+### Stack Principal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,java,django,python,figma,git" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Atividade
+### Atividade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danielrp9&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 Contato
+### Você também pode me encontrar e contactar em:
 
 <p align="center">
   <a href="mailto:danielrodrigues878@hotmail.com">
