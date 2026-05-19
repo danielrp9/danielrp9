@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Daniel Rodrigues :)</h1>
+<h1 align="center">Daniel Rodrigues aqui :)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Construindo+produtos+reais;Foco+em+performance+e+UX" />
