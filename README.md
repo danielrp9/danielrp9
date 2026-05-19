@@ -28,15 +28,6 @@
 
 ### 🛠️ Stack Principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,java,django,python,figma,git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20REST-0F172A?style=for-the-badge&logo=fastapi&logoColor=00FF9D"/>
-</p>
-
----
 
 ### 📊 Atividade
 
