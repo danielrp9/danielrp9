@@ -18,9 +18,8 @@
 
 ### 👨‍💻 Sobre
 
-- 🎓 Sistemas de Informação — UFVJM  
-- 📍 Minas Gerais, Brasil  
-- 🚀 Foco em desenvolvimento Full-Stack + UX  
+- 🎓 Estudante de Sistemas de Informação — UFVJM - MG  
+- 🚀 Apaixonado por desenvolvimento 
 - 🧠 Interesse em arquitetura, performance e produtos digitais  
 - ⚡ Construindo projetos com aplicação real  
 
