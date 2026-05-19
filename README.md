@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Daniel Rodrigues</h1>
 
 <p align="center">
@@ -78,4 +78,4 @@
     <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-```
+
