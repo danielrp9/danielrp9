@@ -45,15 +45,6 @@
 
 ---
 
-### 🔥 O que você vai encontrar aqui
-
-- Projetos Full-Stack completos  
-- Interfaces com foco em experiência do usuário  
-- Integrações com APIs e sistemas reais  
-- Experimentações com novas tecnologias  
-
----
-
 ### 🌐 Contato
 
 <p align="center">
